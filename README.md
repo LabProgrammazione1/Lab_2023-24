@@ -51,7 +51,7 @@ Turno D: Aula GAMMA Labc [Informatica - Celoria 18]
 
 Pagina del corso: [Prof. Vigna (teoria)](https://vigna.di.unimi.it/prog/)
 
-Esercizi: [Github](https://github.com/LabProgrammazione1/Lab_2022-23) ---> shorturl.at/uEGVX
+Esercizi: [Github](https://github.com/LabProgrammazione1/Lab_2023-24) ---> shorturl.at/uEGVX
 
 Comunicazioni: [Canale Telegram](https://t.me/+VEeXSK_XSRlkNDlk)
 
