@@ -2,7 +2,7 @@
 
 ## Docenti e Tutor
 
-### Turno C (Cognomi da "E" a "Le")
+### Turno C (Cognomi da "E" a "Le" - Provvisorio)
 
 Docente: Lorenzo Capra
 
@@ -12,7 +12,7 @@ Ufficio: 5052 (ricevimento su appuntamento)
 
 Tutor: TBD
 
-### Turno D (Cognomi da "Li" a "O")
+### Turno D (Cognomi da "Li" a "O" - Provvisorio)
 
 Docente: Alessandro D'Amelio
 
@@ -70,7 +70,7 @@ Basati sugli argomenti trattati nel corso di teoria, focalizzati su strumenti pr
 ### Modalità d'esame
 
 Esercizi di programmazione al PC:
-* Un esercizio obbligatorio da svolgere **correttamente** e **completamente**
+* Un esercizio obbligatorio da svolgere **correttamente** e **completamente** pena invalidamento dell'intero esame
 * Esercizi aggiuntivi valutati per: correttezza, completezza, uso della memoria, semplicità della soluzione, duplicazione codice, legibilità
 
 **Attenzione:**
