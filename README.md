@@ -4,16 +4,6 @@
 
 ### Turno C (Cognomi da "E" a "Le" - Provvisorio)
 
-Docente: Lorenzo Capra
-
-Email: lorenzo.capra@unimi.it
-
-Ufficio: 5052 (ricevimento su appuntamento)
-
-Tutor: TBD
-
-### Turno D (Cognomi da "Li" a "O" - Provvisorio)
-
 Docente: Alessandro D'Amelio
 
 Email: alessandro.damelio@unimi.it
@@ -21,6 +11,16 @@ Email: alessandro.damelio@unimi.it
 Ufficio: 4022 (ricevimento su appuntamento)
 
 Tutor: Giorgio Blandano
+
+### Turno D (Cognomi da "Li" a "O" - Provvisorio)
+
+Docente: Lorenzo Capra
+
+Email: lorenzo.capra@unimi.it
+
+Ufficio: 5052 (ricevimento su appuntamento)
+
+Tutor: TBD
 
 ## Lezioni
 
@@ -70,15 +70,51 @@ Basati sugli argomenti trattati nel corso di teoria, focalizzati su strumenti pr
 ### Modalità d'esame
 
 Esercizi di programmazione al PC:
-* Un esercizio obbligatorio da svolgere **correttamente** e **completamente** pena invalidamento dell'intero esame
-* Esercizi aggiuntivi valutati per: correttezza, completezza, uso della memoria, semplicità della soluzione, duplicazione codice, legibilità
+
+* Per sostenere l'esame di Programmazione (prova di laboratorio + teoria nello stesso appello) è necessario iscriversi tramite SIFA online al relativo appello, cioè PROGRAMMAZIONE - VIGNA - mese dell'appello.
+
+* L'esame di laboratorio si svolge su macchine Linux, dovete quindi saper usare la shell a linea di comando e alcuni comandi essenziali.
+
+### Modalità d'esame (2)
+
+I PC all'esame sono configurati così:
+
+* Applicazioni avviate:
+	- Firefox Browser
+	- Konsole Terminal
+	- Zeal
+
+* Siti aperti (i soli consentiti):
+	- http://upload.di.unimi.it/
+	- http://pkg.go.dev
+
+### Modalità d'esame (3)
 
 **Attenzione:**
+
 * Per poter sostenere alcuni esami del secondo e terzo anno è necessario superare l’esame di programmazione.
+
 * La prova di **Teoria** può essere sostenuta solo dopo aver superato la prova di **Laboratorio**.
+
 * La prova di **Teoria** e la prova di **Laboratorio** devono essere sostenute nello stesso appello.
+
 * Per poter svolgere l'esame è necessario **iscriversi tramite SIFA**.
 
+### Valutazione esame di Laboratorio
+
+Regole:
+
+* Tutti i temi d'esame prevedono un esercizio obbligatorio (Esercizio Filtro) da svolgere **correttamente** e **completamente** pena invalidamento dell'intero esame
+
+* 2/3 esercizi aggiuntivi valutati per: correttezza, completezza, uso della memoria, semplicità della soluzione, duplicazione codice, legibilità.
+
+* Per essere valutati gli esercizi **devono** compilare. Eventuali errori di compilazione invalidano l'esercizio
+
+### Materiale ammesso all'esame
+
+* documentazione online di Go (https://pkg.go.dev/std)
+* libro di testo o manuale di Go (eventualmente pdf) (**non eserciziari**)
+* carta (fornita dai docenti) + penna
 
 ## Materiale consigliato
 
