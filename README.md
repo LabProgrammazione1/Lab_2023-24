@@ -20,7 +20,7 @@ Email: lorenzo.capra@unimi.it
 
 Ufficio: 5052 (ricevimento su appuntamento)
 
-Tutor: TBD
+Tutor: Giovanni Cocco
 
 ## Lezioni
 
