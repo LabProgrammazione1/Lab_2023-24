@@ -2,7 +2,7 @@
 
 ## Docenti e Tutor
 
-### Turno C (Cognomi da "E" a "Le" - Provvisorio)
+### Turno C (Cognomi da "E" a "Kap" - Provvisorio)
 
 Docente: Alessandro D'Amelio
 
@@ -12,7 +12,7 @@ Ufficio: 4022 (ricevimento su appuntamento)
 
 Tutor: Giorgio Blandano
 
-### Turno D (Cognomi da "Li" a "O" - Provvisorio)
+### Turno D (Cognomi da "Kar" a "O" - Provvisorio)
 
 Docente: Lorenzo Capra
 
